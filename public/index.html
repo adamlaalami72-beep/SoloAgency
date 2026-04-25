@@ -1,8 +1,4 @@
-import { Hono } from 'hono'
-
-const app = new Hono()
-
-const HTML = `<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -1112,10 +1108,3 @@ if(heroStats) statsObserver.observe(heroStats);
 </script>
 </body>
 </html>
-`
-
-app.get('/', (c) => {
-  return c.html(HTML)
-})
-
-export default app
