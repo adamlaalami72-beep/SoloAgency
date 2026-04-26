@@ -2,7 +2,7 @@ import { Hono } from 'hono'
 
 const app = new Hono()
 
-const HTML = `<!DOCTYPE html>
+const PAGE = `<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -1114,8 +1114,7 @@ if(heroStats) statsObserver.observe(heroStats);
 </html>
 `
 
-app.get('/', (c) => {
-  return c.html(HTML)
-})
+app.get('/', (c) => c.html(PAGE))
+app.get('*', (c) => c.html(PAGE))
 
 export default app
