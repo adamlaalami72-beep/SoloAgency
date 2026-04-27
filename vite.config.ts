@@ -6,5 +6,13 @@ export default defineConfig({
     devServer({
       entry: 'src/index.tsx'
     })
-  ]
+  ],
+  build: {
+    rollupOptions: {
+      input: {
+        main: 'index.html',
+        projects: 'projects.html'
+      }
+    }
+  }
 })
