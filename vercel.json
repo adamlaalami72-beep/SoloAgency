@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "framework": "vite",
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/api"
+      "destination": "/api/index"
     }
-  ]
+  ],
+  "functions": {
+    "api/index.tsx": {
+      "runtime": "edge"
+    }
+  }
 }
