@@ -580,7 +580,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:64px 32p
             <span class="pkg-period">/mes</span>
           </div>
           <div class="pkg-price-note">+ Setup inicial desde €990 (pago único)</div>
-          <a href="https://wa.me/+33600000000?text=Hola,%20me%20interesa%20el%20plan%20Lanzamiento" target="_blank" class="pkg-cta">Empezar por WhatsApp</a>
+          <a href="https://wa.me/+34642351077?text=Hola,%20me%20interesa%20el%20plan%20Lanzamiento" target="_blank" class="pkg-cta">Empezar por WhatsApp</a>
         </div>
         <hr class="pkg-divider">
         <div class="pkg-body">
@@ -610,7 +610,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:64px 32p
             <span class="pkg-period">/mes</span>
           </div>
           <div class="pkg-price-note">Todo incluido · Compromiso mín. 3 meses</div>
-          <a href="https://wa.me/+33600000000?text=Hola,%20me%20interesa%20el%20plan%20Crecimiento" target="_blank" class="pkg-cta">Empezar ahora →</a>
+          <a href="https://wa.me/+34642351077?text=Hola,%20me%20interesa%20el%20plan%20Crecimiento" target="_blank" class="pkg-cta">Empezar ahora →</a>
         </div>
         <hr class="pkg-divider">
         <div class="pkg-body">
@@ -638,7 +638,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:64px 32p
             <span class="pkg-price">A medida</span>
           </div>
           <div class="pkg-price-note">Proyecto personalizado · Presupuesto en 24h</div>
-          <a href="https://wa.me/+33600000000?text=Hola,%20quiero%20un%20presupuesto%20para%20el%20plan%20Socio%20Digital" target="_blank" class="pkg-cta">Solicitar presupuesto →</a>
+          <a href="https://wa.me/+34642351077?text=Hola,%20quiero%20un%20presupuesto%20para%20el%20plan%20Socio%20Digital" target="_blank" class="pkg-cta">Solicitar presupuesto →</a>
         </div>
         <hr class="pkg-divider">
         <div class="pkg-body">
@@ -952,7 +952,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:64px 32p
     <h2 class="cta-h2">Hablemos de tu<br><em>próximo proyecto</em></h2>
     <p class="cta-sub">Primer contacto gratuito y sin compromiso. Respondemos en menos de 24h por WhatsApp.</p>
     <div class="cta-btns">
-      <a href="https://wa.me/+33600000000?text=Hola,%20quiero%20hablar%20de%20mi%20proyecto" target="_blank" class="btn btn-wa btn">
+      <a href="https://wa.me/+34642351077?text=Hola,%20quiero%20hablar%20de%20mi%20proyecto" target="_blank" class="btn btn-wa btn">
         <i class="fab fa-whatsapp"></i>
         Empezar en WhatsApp
       </a>
@@ -971,7 +971,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:64px 32p
       <a href="/projects">Proyectos</a>
       <a href="#why">Sobre mí</a>
       <a href="#testimonials">Testimonios</a>
-      <a href="https://wa.me/+33600000000" target="_blank">WhatsApp</a>
+      <a href="https://wa.me/+34642351077" target="_blank">WhatsApp: +34 642 35 10 77</a>
     </nav>
     <div class="footer-copy">
       © 2025 SoloAgency · Todos los derechos reservados · Hecho con ❤️ y datos
@@ -980,7 +980,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:64px 32p
 </footer>
 
 <!-- ════════════════════════ WHATSAPP FAB -->
-<a id="wa-fab" href="https://wa.me/+33600000000?text=Hola,%20quiero%20saber%20más%20sobre%20tus%20servicios" target="_blank" aria-label="Contacto WhatsApp">
+<a id="wa-fab" href="https://wa.me/+34642351077?text=Hola,%20quiero%20saber%20más%20sobre%20tus%20servicios" target="_blank" aria-label="Contacto WhatsApp">
   <i class="fab fa-whatsapp"></i>
 </a>
 <div class="wa-tooltip">💬 Escríbeme por WhatsApp</div>
@@ -1602,7 +1602,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:56px 32p
     <h2 class="cta-h2">Hablemos de tu<br><em>próximo proyecto</em></h2>
     <p class="cta-sub">Primer contacto gratuito y sin compromiso. Respondemos en menos de 24h por WhatsApp.</p>
     <div class="cta-btns">
-      <a href="https://wa.me/+33600000000?text=Hola,%20quiero%20hablar%20de%20mi%20proyecto" target="_blank" class="btn btn-wa">
+      <a href="https://wa.me/+34642351077?text=Hola,%20quiero%20hablar%20de%20mi%20proyecto" target="_blank" class="btn btn-wa">
         <i class="fab fa-whatsapp"></i>
         Empezar en WhatsApp
       </a>
@@ -1621,7 +1621,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:56px 32p
       <a href="/projects">Proyectos</a>
       <a href="/#why">Sobre mí</a>
       <a href="/#testimonials">Testimonios</a>
-      <a href="https://wa.me/+33600000000" target="_blank">WhatsApp</a>
+      <a href="https://wa.me/+34642351077" target="_blank">WhatsApp: +34 642 35 10 77</a>
     </nav>
     <div class="footer-copy">
       © 2025 SoloAgency · Todos los derechos reservados · Hecho con ❤️ y datos
@@ -1630,7 +1630,7 @@ footer{background:var(--bg2);border-top:1px solid var(--border);padding:56px 32p
 </footer>
 
 <!-- WA FAB -->
-<a id="wa-fab" href="https://wa.me/+33600000000?text=Hola,%20quiero%20saber%20más%20sobre%20tus%20servicios" target="_blank" aria-label="Contacto WhatsApp">
+<a id="wa-fab" href="https://wa.me/+34642351077?text=Hola,%20quiero%20saber%20más%20sobre%20tus%20servicios" target="_blank" aria-label="Contacto WhatsApp">
   <i class="fab fa-whatsapp"></i>
 </a>
 
